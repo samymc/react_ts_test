@@ -52,8 +52,3 @@ Sería genial saber si no tuviste tiempo para completar el ejercicio o si harias
 ## Tiempo de la prueba
 
 72 horas.
-
-# Desarrollo
-
-## ¿Que vamos a usar?
-Usaremos vitejs, react, react-mui, Jest, LazyLoading y las herramientas descritas en las consideraciones.
